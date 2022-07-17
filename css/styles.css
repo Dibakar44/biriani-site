@@ -1,0 +1,39 @@
+/*************************TAG SELECTIONS*************************/
+h1{
+  font-size: 50px;
+  color: green;
+  }
+
+img:hover{
+  background-color: gold;
+  }
+.food-img{
+  width:70px;
+  height:70px;
+}
+
+
+
+/*************************CLASS SELECTORS*************************/
+.biryani {
+  background-color: green;
+}
+.circular{
+  border-radius: 100%;
+}
+
+
+.broccoli {
+  background-color: red;
+  }
+
+  .circular{
+    border-radius: 100%;
+  }
+
+/*************************ID SELECTORS*************************/
+#heading { color: blue;
+  }
+  #big {
+    font-style: 1000px;
+  }
